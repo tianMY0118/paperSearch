@@ -4,3 +4,4 @@ outputs/
 *.log
 .env
 .DS_Store
+.json
