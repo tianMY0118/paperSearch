@@ -1,4 +1,0 @@
-gradio
-feedparser
-python-docx
-reportlab
